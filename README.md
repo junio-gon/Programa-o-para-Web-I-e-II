@@ -1,2 +1,2 @@
-# Programa-o-para-Web-I-e-II
-Disciplina do segundo ano do curso técnico em Informática para Internet 
+# Programação para WebI e II
+Disciplinas do segundo e terceiro ano do curso técnico em Informática para Internet
